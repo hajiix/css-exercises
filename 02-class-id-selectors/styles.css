@@ -1,6 +1,6 @@
 .odd {
   background-color: rgb(245, 120, 141);
-  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 /* Used by lines 3 & 4 because they both are font-size of 24px*/
 .diffont {
