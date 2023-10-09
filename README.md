@@ -1,4 +1,3 @@
 # css-exercises
 
-##Practicing basic CSS skills
-
+## Practicing basic CSS skills
