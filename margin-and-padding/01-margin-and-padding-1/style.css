@@ -25,8 +25,7 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 0px;
-  margin-left: 330px;
-  margin-top: 48px;
+  margin: 48px 0px 0px auto;
 }
 
 .one , .three {
