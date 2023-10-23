@@ -1,3 +1,3 @@
-# CSS-exercises
+# Foundations
 
-## Practicing basic CSS skills
+## Practicing foundational CSS skills
